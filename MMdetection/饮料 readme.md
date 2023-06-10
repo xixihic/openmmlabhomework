@@ -2,13 +2,13 @@
 
 ## 数据集可视化
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\drink.png)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/drink.png](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/drink.png)
 
 ## 标注可视化
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\dtraincoco.png)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/dtraincoco.png](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/dtraincoco.png)
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\dvalcoco.png)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/dvalcoco.png](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/data-vis/dvalcoco.png)
 
 
 
@@ -54,9 +54,11 @@
 
 ## 检测结果
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\test2.png)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/result/drink/test2.png](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/result/drink/test2.png)
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\test6.png)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/result/drink/test6.png](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/result/drink/test6.png)
+
+网络对于一些遮挡物体存在一定的漏检现象，可能需要修改网络？
 
 ## 热力图展示
 
@@ -64,11 +66,11 @@
 
 BackBone
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\DSC_3656backone.jpg)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/DSC_3656backone.jpg](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/DSC_3656backone.jpg)
 
 neck
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\DSC_3656neck.jpg)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/DSC_3656neck.jpg](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/DSC_3656neck.jpg)
 
 ### Box AM 可视化
 
@@ -76,12 +78,12 @@ neck
 
 out layers0
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\neck0.jpg)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck0.jpg](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck0.jpg)
 
 out layers1
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\neck1.jpg)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck1.jpg](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck1.jpg)
 
 out layers2
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\neck2.jpg)
+![https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck2.jpg](https://github.com/xixihic/openmmlabhomework/blob/18b4a5efa0de67bbc50c893f57172959a904c4d9/MMdetection/feature-vis/drink/neck2.jpg)
