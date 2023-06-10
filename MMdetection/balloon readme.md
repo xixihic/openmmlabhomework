@@ -2,7 +2,7 @@ Balloon
 
 ## 数据集可视化
 
-![](MMdetection/data-vis/trainanno.png)
+![MMdetection/data-vis/trainanno.png](https://github.com/xixihic/openmmlabhomework/blob/988bb3d1b0192a73404e462fc3d9d1eb154a3602/MMdetection/data-vis/trainanno.png)
 
 ## 标签可视化
 
