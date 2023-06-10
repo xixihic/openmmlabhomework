@@ -2,9 +2,7 @@ Balloon
 
 ## 数据集可视化
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\traindataset.png)
-
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\valdataset.png)
+![](MMdetection/data-vis/trainanno.png)
 
 ## 标签可视化
 
