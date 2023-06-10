@@ -2,14 +2,14 @@ Balloon
 
 ## 数据集可视化
 
-![MMdetection/data-vis/trainanno.png](https://github.com/xixihic/openmmlabhomework/blob/988bb3d1b0192a73404e462fc3d9d1eb154a3602/MMdetection/data-vis/trainanno.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/traindataset.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/traindataset.png)
 
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/valdataset.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/valdataset.png)
 ## 标签可视化
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\trainanno.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/trainanno.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/trainanno.png)
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\vis\valcoco.png)
-
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/valcoco.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/data-vis/valcoco.png)
 
 
 ## 性能指标
@@ -36,9 +36,9 @@ Balloon
 
 ## 检测结果
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\test.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/result/balloon/test.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/result/balloon/test.png)
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\test1.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/result/balloon/test1.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/result/balloon/test1.png)
 
 ## 热力图展示
 
@@ -46,11 +46,11 @@ Balloon
 
 BackBone
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\balloonbackbone.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonbackbone.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonbackbone.png)
 
 Neck
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\balloonneck.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonneck.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonneck.png)
 
 ### Box AM 可视化
 
@@ -60,13 +60,13 @@ Neck
 
 out layers0
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\balloonstage0.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage0.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage0.png)
 
 out layers1
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\balloonstage1.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage1.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage1.png)
 
 out layers2
 
-![](C:\Users\11139\Desktop\openmmlab\MMdetection\balloonstage2.png)
+![https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage2.png](https://github.com/xixihic/openmmlabhomework/blob/816d4ee2e367ac7d2410a78d9813a7c725c248d0/MMdetection/feature-vis/ballon/balloonstage2.png)
 
