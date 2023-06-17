@@ -1,0 +1,1 @@
+https://designer.microsoft.com/invite
